@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Student Organizer</string>
+    <string name="home">Home</string>
+    <string name="add_event">Add Event</string>
+    <string name="events">Events</string>
+    <string name="lesson_s_day">Lesson\'s Day:</string>
+    <string name="error_day_message">Pick a day</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="start_hour">Start Hour</string>
+    <string name="start_minute">Start Minute</string>
+    <string name="end_hour">End Hour</string>
+    <string name="end_minute">End Minute</string>
+    <string name="lesson_s_name">Lesson\'s Name</string>
+    <string name="professor">Professor</string>
+    <string name="pick_a_time_to_remind_you">Pick a time to remind you</string>
+    <string-array name="days">
+        <item>Select Day</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="reminder_hours">
+        <item>Select Hours</item>
+        <item>1 Hour Before</item>
+        <item>2 Hours Before</item>
+        <item>3 Hours Before</item>
+        <item>4 Hours Before</item>
+        <item>5 Hours Before</item>
+        <item>6 Hours Before</item>
+        <item>7 Hours Before</item>
+        <item>8 Hours Before</item>
+    </string-array>
+</resources>
